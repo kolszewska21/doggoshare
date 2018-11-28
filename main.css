@@ -21,6 +21,10 @@ header .buttons {
 
 }
 
+li {
+  color: black;
+}
+
 
 header video {
   position: absolute;
@@ -61,7 +65,6 @@ header .overlay {
     display: none;
   }
 }
-
 
 
 footer {
