@@ -66,9 +66,9 @@ header .overlay {
   }
 }
 
-.well {background: royalblue;}
 
 footer {
+  padding-top: 50px;
   background-color: #555;
   color: white;
   padding: 15px;
