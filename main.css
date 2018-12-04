@@ -66,6 +66,9 @@ header .overlay {
   }
 }
 
+.col-sm-2 well {
+  width: auto;
+}
 
 footer {
   align-items: right;
