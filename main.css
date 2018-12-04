@@ -68,6 +68,7 @@ header .overlay {
 
 
 footer {
+  align-items: right;
   padding-top: 50px;
   background-color: #555;
   color: white;
